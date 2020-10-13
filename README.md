@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".github/Happy.png" width="100%">
+  <img alt="Frontend" src=".github/happy.png" width="100%">
 </p>
